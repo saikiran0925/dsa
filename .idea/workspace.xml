@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="191b47a9-5d4d-4dc1-97a4-8ced9890fd9f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/saiki/sorting/BubbleSort.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/saiki/sorting/InsertionSort.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/saiki/sorting/MergeSort.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/saiki/sorting/Problem1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/saiki/sorting/Problem2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/saiki/sorting/Problem3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/saiki/sorting/Program3Tests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/saiki/sorting/SelectionSort.java" beforeDir="false" />
-    </list>
+    <list default="true" id="191b47a9-5d4d-4dc1-97a4-8ced9890fd9f" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -63,8 +53,11 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/home/saikiranbade/repos/Streams-API-Practices",
-    "settings.editor.selected.configurable": "com.maddyhome.idea.vim.ui.VimEmulationConfigurable"
+    "last_opened_file_path": "/home/saikiranbade/repos/dsa",
+    "project.structure.last.edited": "SDKs",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="RunManager" selected="Application.Problem238">
