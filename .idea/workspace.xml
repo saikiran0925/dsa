@@ -6,8 +6,11 @@
   <component name="ChangeListManager">
     <list default="true" id="191b47a9-5d4d-4dc1-97a4-8ced9890fd9f" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/saiki/leetcode/Problem121.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/saiki/leetcode/Problem121.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/saiki/leetcode/Problem15.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/saiki/leetcode/Problem15.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/saiki/leetcode/Problem1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/saiki/leetcode/Problem1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/saiki/leetcode/Problem125.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/saiki/leetcode/Problem125.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/saiki/leetcode/Problem167.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/saiki/leetcode/Problem167.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/saiki/leetcode/Problem238.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/saiki/leetcode/Problem238.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/saiki/leetcode/Problem392.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/saiki/leetcode/Problem392.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,13 +53,25 @@
     "Application.FlattenAListOfLists.executor": "Run",
     "Application.LinkedListDemo.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.Problem1.executor": "Run",
     "Application.Problem121.executor": "Run",
     "Application.Problem122.executor": "Run",
+    "Application.Problem125.executor": "Run",
+    "Application.Problem167.executor": "Run",
     "Application.Problem169.executor": "Run",
     "Application.Problem189.executor": "Run",
-    "Application.Problem238.executor": "Debug",
+    "Application.Problem20.executor": "Run",
+    "Application.Problem205.executor": "Run",
+    "Application.Problem238.executor": "Run",
+    "Application.Problem242.executor": "Run",
     "Application.Problem26.executor": "Run",
     "Application.Problem27.executor": "Run",
+    "Application.Problem290.executor": "Run",
+    "Application.Problem380.executor": "Run",
+    "Application.Problem383.executor": "Run",
+    "Application.Problem392.executor": "Run",
+    "Application.Problem45.executor": "Debug",
+    "Application.Problem49.executor": "Debug",
     "Application.Problem55.executor": "Run",
     "Application.Problem80.executor": "Run",
     "Application.StringLengthFiltering.executor": "Run",
@@ -73,9 +88,9 @@
     "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Problem55">
-    <configuration name="Problem121" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.saiki.leetcode.Problem121" />
+  <component name="RunManager" selected="Application.Problem20">
+    <configuration name="Problem1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.saiki.leetcode.Problem1" />
       <module name="dsa" />
       <extension name="coverage">
         <pattern>
@@ -87,8 +102,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Problem122" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.saiki.leetcode.Problem122" />
+    <configuration name="Problem20" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.saiki.leetcode.Problem20" />
       <module name="dsa" />
       <extension name="coverage">
         <pattern>
@@ -100,8 +115,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Problem169" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.saiki.leetcode.Problem169" />
+    <configuration name="Problem205" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.saiki.leetcode.Problem205" />
       <module name="dsa" />
       <extension name="coverage">
         <pattern>
@@ -113,8 +128,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Problem189" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.saiki.leetcode.Problem189" />
+    <configuration name="Problem290" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.saiki.leetcode.Problem290" />
       <module name="dsa" />
       <extension name="coverage">
         <pattern>
@@ -126,8 +141,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Problem55" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.saiki.leetcode.Problem55" />
+    <configuration name="Problem49" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.saiki.leetcode.Problem49" />
       <module name="dsa" />
       <extension name="coverage">
         <pattern>
@@ -141,11 +156,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Problem55" />
-        <item itemvalue="Application.Problem122" />
-        <item itemvalue="Application.Problem121" />
-        <item itemvalue="Application.Problem189" />
-        <item itemvalue="Application.Problem169" />
+        <item itemvalue="Application.Problem20" />
+        <item itemvalue="Application.Problem1" />
+        <item itemvalue="Application.Problem49" />
+        <item itemvalue="Application.Problem290" />
+        <item itemvalue="Application.Problem205" />
       </list>
     </recent_temporary>
   </component>
@@ -160,6 +175,17 @@
     </task>
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
@@ -169,14 +195,22 @@
           <option name="timeStamp" value="8" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/saiki/leetcode/Problem238.java</url>
-          <line>16</line>
-          <option name="timeStamp" value="9" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/saiki/leetcode/Problem80.java</url>
           <line>6</line>
           <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/saiki/leetcode/Problem45.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/saiki/leetcode/Problem49.java</url>
+          <line>12</line>
+          <properties>
+            <option name="lambda-ordinal" value="-1" />
+          </properties>
+          <option name="timeStamp" value="20" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
