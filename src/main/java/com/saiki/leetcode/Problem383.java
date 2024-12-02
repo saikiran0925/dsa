@@ -1,9 +1,7 @@
 package com.saiki.leetcode;
 
-import java.lang.reflect.Array;
-import java.util.Arrays;
-
 public class Problem383 {
+
     public static void main(String[] args) {
         String ransomNote = "aa";
         String magazine = "ab";

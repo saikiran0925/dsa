@@ -7,7 +7,7 @@ public class Problem167 {
 
     public static void main(String[] args) {
         Problem167 problem167 = new Problem167();
-        int[] numbers = {2, 7, 11, 15};
+        int[] numbers = { 2, 7, 11, 15 };
         int[] result = problem167.twoSum(numbers, 13);
         for (int number : result) {
             System.out.println(number);

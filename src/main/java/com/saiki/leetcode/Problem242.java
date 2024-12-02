@@ -1,8 +1,7 @@
 package com.saiki.leetcode;
 
-import java.util.Locale;
-
 public class Problem242 {
+
     public static void main(String[] args) {
         String s = "rat";
         String t = "car";
