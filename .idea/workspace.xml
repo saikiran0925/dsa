@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="191b47a9-5d4d-4dc1-97a4-8ced9890fd9f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="191b47a9-5d4d-4dc1-97a4-8ced9890fd9f" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,63 +36,63 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.ConvertListOfStringsToUppercase.executor": "Run",
-    "Application.CountWordsThatStartWithASpecificLetter.executor": "Run",
-    "Application.FilterAndMappingBasics.executor": "Run",
-    "Application.FindTheTopNElementsInAStream.executor": "Run",
-    "Application.FindingMaximumAndMinimumValues.executor": "Run",
-    "Application.FlattenAListOfLists.executor": "Run",
-    "Application.LinkedListDemo.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.Problem1.executor": "Run",
-    "Application.Problem11.executor": "Run",
-    "Application.Problem12.executor": "Debug",
-    "Application.Problem121.executor": "Run",
-    "Application.Problem122.executor": "Run",
-    "Application.Problem125.executor": "Run",
-    "Application.Problem128.executor": "Run",
-    "Application.Problem13.executor": "Run",
-    "Application.Problem1455.executor": "Run",
-    "Application.Problem151.executor": "Run",
-    "Application.Problem167.executor": "Run",
-    "Application.Problem169.executor": "Run",
-    "Application.Problem189.executor": "Run",
-    "Application.Problem20.executor": "Run",
-    "Application.Problem205.executor": "Run",
-    "Application.Problem209.executor": "Run",
-    "Application.Problem238.executor": "Run",
-    "Application.Problem242.executor": "Run",
-    "Application.Problem26.executor": "Run",
-    "Application.Problem27.executor": "Run",
-    "Application.Problem290.executor": "Run",
-    "Application.Problem3.executor": "Run",
-    "Application.Problem35.executor": "Run",
-    "Application.Problem380.executor": "Run",
-    "Application.Problem383.executor": "Run",
-    "Application.Problem392.executor": "Run",
-    "Application.Problem42.executor": "Run",
-    "Application.Problem45.executor": "Debug",
-    "Application.Problem49.executor": "Debug",
-    "Application.Problem55.executor": "Run",
-    "Application.Problem58.executor": "Run",
-    "Application.Problem80.executor": "Run",
-    "Application.Problem9.executor": "Run",
-    "Application.StringLengthFiltering.executor": "Run",
-    "Application.SumOfEvenNumbers.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/home/saikiranbade/repos/dsa",
-    "project.structure.last.edited": "SDKs",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.keymap"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.ConvertListOfStringsToUppercase.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CountWordsThatStartWithASpecificLetter.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FilterAndMappingBasics.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FindTheTopNElementsInAStream.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FindingMaximumAndMinimumValues.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FlattenAListOfLists.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LinkedListDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Problem1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Problem11.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Problem12.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Problem121.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Problem122.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Problem125.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Problem128.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Problem13.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Problem1455.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Problem151.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Problem167.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Problem169.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Problem189.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Problem20.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Problem205.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Problem209.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Problem238.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Problem242.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Problem26.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Problem27.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Problem290.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Problem3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Problem35.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Problem380.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Problem383.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Problem392.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Problem42.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Problem45.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Problem49.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Problem55.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Problem58.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Problem80.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Problem9.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StringLengthFiltering.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SumOfEvenNumbers.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/saikiranbade/repos/dsa&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Application.Problem35">
     <configuration name="Problem128" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.saiki.leetcode.Problem128" />
